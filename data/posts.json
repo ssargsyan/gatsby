@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Chihuahua",
+    "slug": "chihuahua",
+    "description": "<p>These tiny dogs have long coats, smooth coats, a diversity of coat colors, and even two distinct head shapes (an apple-shaped head or a deer-shaped head. Seriously). They weigh a feather-light 4-6 pounds, and stand only 6-10 inches tall.</p>",
+    "image": "./images/dog.jpg"
+  },
+  {
+    "title": "Pomeranian",
+    "slug": "pomeranian",
+    "description": "<p>This spunky little fuzz ball is a spitz type breed, and definitely a popular pet. They stand between 5-11 inches tall and weigh a mere 4-8 pounds. In other words, if some 'pom poms' look large, it's all fur and personality that's filling them out.</p>",
+    "image": "./images/dog1.jpg"
+  },
+  {
+    "title": "Papillon",
+    "slug": "papillon",
+    "description": "<p>If you're all about the ears, the papillon is probably the dog for you. The name is perfect for this breed, as it means 'butterfly eared'. Normally the ears are upright, but some papillons have dropped ears. These dogs have a corresponding name of phalène, which is French for 'moth'.</p>",
+    "image": "./images/dog2.jpg"
+  }
+]
